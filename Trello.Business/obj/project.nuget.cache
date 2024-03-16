@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQ/nlXVCeGspZI6NaFDdA9F10oplUKA7BAbg7SwgWFgt/WvTutguboDqnMRBigzUxVQOw45IwXBF+YbnF5kYUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trello.Business\\Trello.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

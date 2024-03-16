@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xc6TYw+V0P9MTnCARi1j4A/QpYdy589gCnWAPgEdttEz3CB2hV9bNVe0qNXiLOKjyPojsC+YnPFbWxZuLagzmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\Trollo.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
