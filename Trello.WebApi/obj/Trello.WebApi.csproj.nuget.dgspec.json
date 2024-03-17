@@ -57,10 +57,6 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
@@ -156,6 +152,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.Business\\Trello.Business.csproj": {
+                "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.Business\\Trello.Business.csproj"
+              },
               "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj": {
                 "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj"
               }

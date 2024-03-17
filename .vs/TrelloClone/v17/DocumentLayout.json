@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.dataaccess\\services\\jwtprovicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|solutionrelative:trello.dataaccess\\services\\jwtprovicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.dataaccess\\context\\appllicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|solutionrelative:trello.dataaccess\\context\\appllicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\movecardcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\auth\\login\\logincommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.dataaccess\\services\\jwtprovicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{342BFE3A-6394-446A-8B38-2EC504E7D213}|Trello.DataAccess\\Trello.DataAccess.csproj|solutionrelative:trello.dataaccess\\services\\jwtprovicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\abstractions\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\features\\auth\\register\\registercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,24 +147,12 @@
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\auth\\login\\logincommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\features\\userroles\\setuserrole\\setuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\features\\userroles\\setuserrole\\setuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -181,14 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.business\\mapper\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FF1201-D173-425B-A3D9-296D1BB1EB7F}|Trello.Business\\Trello.Business.csproj|solutionrelative:trello.business\\mapper\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|solutionrelative:trello.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6440492-8ABC-4F99-AD50-F5DF6C36F227}|Trello.WebApi\\Trello.WebApi.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trello.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -258,7 +258,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 28,
           "Children": [
             {
               "$type": "Bookmark",
@@ -266,20 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BoardController.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Controllers\\BoardController.cs",
-              "RelativeDocumentMoniker": "Trello.WebApi\\Controllers\\BoardController.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Controllers\\BoardController.cs",
-              "RelativeToolTip": "Trello.WebApi\\Controllers\\BoardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T19:06:20.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "GetRolesQueryResponse.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQueryResponse.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQueryResponse.cs",
@@ -292,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "GetRolesQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQueryHandler.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQueryHandler.cs",
@@ -305,20 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GetRolesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
-              "RelativeToolTip": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T18:41:24.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "CreateRolCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommandValidator.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommandValidator.cs",
@@ -331,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "CreateRolCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommandHandler.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommandHandler.cs",
@@ -344,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "CreateRolCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommand.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\CreateRole\\CreateRolCommand.cs",
@@ -357,39 +331,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Abstractions\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\Abstractions\\IJwtProvider.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Abstractions\\IJwtProvider.cs",
-              "RelativeToolTip": "Trello.Business\\Abstractions\\IJwtProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:15:01.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "JwtProvicer.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Services\\JwtProvicer.cs",
-              "RelativeDocumentMoniker": "Trello.DataAccess\\Services\\JwtProvicer.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Services\\JwtProvicer.cs",
-              "RelativeToolTip": "Trello.DataAccess\\Services\\JwtProvicer.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:13:24.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 8,
               "Title": "ApiController.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Abstractions\\ApiController.cs",
               "RelativeDocumentMoniker": "Trello.WebApi\\Abstractions\\ApiController.cs",
               "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Abstractions\\ApiController.cs",
               "RelativeToolTip": "Trello.WebApi\\Abstractions\\ApiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T16:11:54.512Z",
               "EditorCaption": ""
@@ -397,19 +345,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "LoginCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
-              "RelativeToolTip": "Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:04:47.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SetUserRoleCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommand.cs",
@@ -421,12 +356,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "AddCard.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AddCard.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\AddCard.cs",
@@ -439,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "BoardList.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardList.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\BoardList.cs",
@@ -452,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "BoardView.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardView.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\BoardView.cs",
@@ -465,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "CardDetail.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\CardDetail.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\CardDetail.cs",
@@ -478,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MoveCardCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\MoveCardCommand.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\MoveCardCommand.cs",
@@ -491,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "NewBoard.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\NewBoard.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\NewBoard.cs",
@@ -504,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\RegisterViewModel.cs",
@@ -517,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\UserRole.cs",
@@ -530,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\LoginViewModel.cs",
@@ -543,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Card.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\Card.cs",
@@ -556,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Board.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\Board.cs",
@@ -569,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\AppUser.cs",
@@ -582,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "AppRole.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppRole.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\AppRole.cs",
@@ -595,7 +526,154 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "Trello.Business\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:00:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\DependencyInjection.cs",
+              "RelativeToolTip": "Trello.Business\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:19:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Trello.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Program.cs",
+              "RelativeToolTip": "Trello.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:14:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppllicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Context\\AppllicationDbContext.cs",
+              "RelativeDocumentMoniker": "Trello.DataAccess\\Context\\AppllicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Context\\AppllicationDbContext.cs",
+              "RelativeToolTip": "Trello.DataAccess\\Context\\AppllicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:50:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:04:10.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtProvicer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Services\\JwtProvicer.cs",
+              "RelativeDocumentMoniker": "Trello.DataAccess\\Services\\JwtProvicer.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Services\\JwtProvicer.cs",
+              "RelativeToolTip": "Trello.DataAccess\\Services\\JwtProvicer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:13:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetRolesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
+              "RelativeToolTip": "Trello.Business\\Features\\Roles\\GetRoles\\GetRolesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:41:24.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Trello.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\appsettings.json",
+              "RelativeToolTip": "Trello.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T14:14:29.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Trello.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Trello.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:27:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "RelativeToolTip": "Trello.Business\\Features\\Auth\\Login\\LoginCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:04:47.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Abstractions\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Trello.Business\\Abstractions\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Abstractions\\IJwtProvider.cs",
+              "RelativeToolTip": "Trello.Business\\Abstractions\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:15:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Column.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Column.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\Column.cs",
@@ -608,20 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppllicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Context\\AppllicationDbContext.cs",
-              "RelativeDocumentMoniker": "Trello.DataAccess\\Context\\AppllicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Context\\AppllicationDbContext.cs",
-              "RelativeToolTip": "Trello.DataAccess\\Context\\AppllicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:50:52.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "RegisterCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Register\\RegisterCommandValidator.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Register\\RegisterCommandValidator.cs",
@@ -634,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "RegisterCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Register\\RegisterCommandHandler.cs",
@@ -647,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "RegisterCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Register\\RegisterCommand.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Register\\RegisterCommand.cs",
@@ -660,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "LoginCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandValidator.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommandValidator.cs",
@@ -673,20 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LoginCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
-              "RelativeToolTip": "Trello.Business\\Features\\Auth\\Login\\LoginCommandHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:04:10.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "LoginCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\Auth\\Login\\LoginCommand.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\Auth\\Login\\LoginCommand.cs",
@@ -699,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "SetUserRoleCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommandHandler.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Features\\UserRoles\\SetUserRole\\SetUserRoleCommandHandler.cs",
@@ -712,33 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Behavior\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\Behavior\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Behavior\\ValidationBehavior.cs",
-              "RelativeToolTip": "Trello.Business\\Behavior\\ValidationBehavior.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T16:00:11.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Trello.Business\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\DependencyInjection.cs",
-              "RelativeToolTip": "Trello.Business\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:19:49.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Trollo.Entities\\Repositories\\IRepository.cs",
@@ -751,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "RoleAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Authroziation\\RoleAttribute.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Authroziation\\RoleAttribute.cs",
@@ -764,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "RoleFilterAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Authroziation\\RoleFilterAttribute.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Authroziation\\RoleFilterAttribute.cs",
@@ -777,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "UserRoleConfigurations.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Configurations\\UserRoleConfigurations.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Configurations\\UserRoleConfigurations.cs",
@@ -790,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Repositories\\RoleRepository.cs",
@@ -803,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "UserRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Repositories\\UserRoleRepository.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Repositories\\UserRoleRepository.cs",
@@ -816,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\DependencyInjection.cs",
@@ -829,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Trello.DataAccess\\Repositories\\Repository.cs",
@@ -842,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Mapping.cs",
               "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.Business\\Mapper\\Mapping.cs",
               "RelativeDocumentMoniker": "Trello.Business\\Mapper\\Mapping.cs",
@@ -851,32 +877,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T14:42:32.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Trello.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Program.cs",
-              "RelativeToolTip": "Trello.WebApi\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAewCMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:14:58.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Trello.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trello.WebApi\\appsettings.json",
-              "RelativeToolTip": "Trello.WebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-17T14:14:29.428Z",
               "EditorCaption": ""
             },
             {

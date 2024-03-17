@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zrCVBq0dTDV+slGfP61P+uu8F9qG5LtqTVpfVGRC8NM6/z03xv3+QH1L8mOweAlrXu0HpVoQElBorxwe/Lb01Q==",
+  "dgSpecHash": "QzcjkH4E3FMuOcQCH7+nqYMA0WJpwznIdJzN/ITc5AfrlvAJgjL5I/1sZEPDgmLRA2j6ewnSfDB/03DG0iK1sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Trello.DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ali Can\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

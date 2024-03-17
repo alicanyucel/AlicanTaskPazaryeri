@@ -25,6 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Trello.Business\Trello.Business.csproj" />
     <ProjectReference Include="..\Trollo.Entities\Trollo.Entities.csproj" />
   </ItemGroup>
 

@@ -1,11 +1,51 @@
 {
   "Version": 1,
-  "Hash": "pS1TBDCIJzdOtLIIZ/3PGtQZSoJDV9TbOHAeQX1N0lk=",
+  "Hash": "a4kq2VFtEnTbuZYBoTXTbpKPlgAd5yI3foswfJIbsNg=",
   "Source": "Trello.WebApi",
   "BasePath": "_content/Trello.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj",
+      "Version": 1,
+      "Source": "TrelloClone",
+      "GetPublishAssetsTargets": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectStaticWebAssetsV2",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrelloClone\\wwwroot",
+      "Source": "TrelloClone",
+      "ContentRoot": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\wwwroot\\",
+      "BasePath": "_content/TrelloClone",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\wwwroot\\css\\site.css",
+      "SourceId": "TrelloClone",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\wwwroot\\",
+      "BasePath": "_content/TrelloClone",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\wwwroot\\css\\site.css"
+    }
+  ]
 }

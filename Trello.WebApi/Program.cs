@@ -2,8 +2,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using NTierArchitecture.Business;
 using System.Text;
-using Trello.Business;
 using Trello.DataAccess;
 using Trello.WebApi.MiddleWare;
 using Trollo.Entities.Options;
@@ -84,7 +84,5 @@ app.UseCookiePolicy();
 app.UseStaticFiles();
 app.UseCors();
 app.UseHttpsRedirection();
-
 app.MapControllers();
-
 app.Run();
