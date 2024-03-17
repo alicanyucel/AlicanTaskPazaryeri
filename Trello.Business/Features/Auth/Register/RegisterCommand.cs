@@ -13,7 +13,6 @@ namespace Trello.Business.Features.Auth.Register
     string Email,
     string UserName,
     string Password,
-    string PhoneNumber,
-    string ImageUrl
+    string PhoneNumber
    ) : IRequest<Unit>;
 }
