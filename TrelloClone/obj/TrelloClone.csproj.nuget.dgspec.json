@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\TrelloClone\\TrelloClone.csproj": {}
+    "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\TrelloClone\\TrelloClone.csproj": {
+    "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\TrelloClone\\TrelloClone.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj",
         "projectName": "TrelloClone",
-        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\TrelloClone\\TrelloClone.csproj",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj",
         "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\TrelloClone\\obj\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

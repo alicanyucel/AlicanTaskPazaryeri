@@ -1,0 +1,6 @@
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.sourcelink.json

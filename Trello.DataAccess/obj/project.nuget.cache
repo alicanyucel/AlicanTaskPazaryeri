@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rIla+qOjQD4SUeG/xUNgTuPiEfWwpeivRqSfOahIZ4lBhWq4q6/OBUnTp2pVu77JUTexlvq3stPyJhyfi9UeEA==",
+  "dgSpecHash": "O+kVJ9dRUU09igRsJItd5NBbcENY+uZJI9TXOOaLniHJsGTAfrHy8oDIPMLtm87XuGX1EcBLcAVRpDZ9Byi/kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trello.DataAccess\\Trello.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Trello.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",

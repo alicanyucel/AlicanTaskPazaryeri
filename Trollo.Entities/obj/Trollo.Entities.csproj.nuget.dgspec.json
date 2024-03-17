@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\Trollo.Entities.csproj": {}
+    "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\Trollo.Entities.csproj": {
+    "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\Trollo.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj",
         "projectName": "Trollo.Entities",
-        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\Trollo.Entities.csproj",
+        "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj",
         "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trollo.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

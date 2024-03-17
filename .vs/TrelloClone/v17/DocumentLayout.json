@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\event\\users\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\event\\users\\iuserrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\event\\users\\userdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\event\\users\\userdomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\event\\users\\sendregistersms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\event\\users\\sendregistersms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\event\\users\\sendregisteremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\event\\users\\sendregisteremail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\options\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\options\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\newboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\newboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\movecardcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\movecardcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\carddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\carddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\viewmodels\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\viewmodels\\boardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\boardlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\boardlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\addcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\addcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\viewmodels\\addcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\viewmodels\\addcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trollo.entities\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC123CA-F9E9-4F13-8C8F-1E39FCA14AF3}|Trollo.Entities\\Trollo.Entities.csproj|solutionrelative:trollo.entities\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|c:\\users\\ali can\\source\\repos\\alicantaskpazaryeri\\trelloclone\\trelloclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0B986B1-2EFA-4DB1-9C22-8DF42FD7E838}|TrelloClone\\TrelloClone.csproj|solutionrelative:trelloclone\\trelloclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppUser.cs*",
+              "RelativeToolTip": "Trollo.Entities\\AppUser.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:11:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\UserRole.cs*",
+              "RelativeToolTip": "Trollo.Entities\\UserRole.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:10:59.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AppRole.cs",
+              "RelativeToolTip": "Trollo.Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:10:45.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\IUserRoleRepository.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Event\\Users\\IUserRoleRepository.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\IUserRoleRepository.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Event\\Users\\IUserRoleRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:07:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IUnitofWork.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Repositories\\IUnitofWork.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IUnitofWork.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Repositories\\IUnitofWork.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:06:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IRoleRepository.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Repositories\\IRoleRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:05:48.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Repositories\\IRepository.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Repositories\\IRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:04:55.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\UserDomainEvent.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Event\\Users\\UserDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\UserDomainEvent.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Event\\Users\\UserDomainEvent.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:04:27.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendRegisterSms.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\SendRegisterSms.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Event\\Users\\SendRegisterSms.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\SendRegisterSms.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Event\\Users\\SendRegisterSms.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:04:12.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SendRegisterEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\SendRegisterEmail.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Event\\Users\\SendRegisterEmail.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Event\\Users\\SendRegisterEmail.cs",
+              "RelativeToolTip": "Trollo.Entities\\Event\\Users\\SendRegisterEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:03:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Options\\Jwt.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Options\\Jwt.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Options\\Jwt.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Options\\Jwt.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:03:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\RegisterViewModel.cs",
+              "RelativeToolTip": "Trollo.Entities\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:02:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\NewBoard.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\NewBoard.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\NewBoard.cs",
+              "RelativeToolTip": "Trollo.Entities\\NewBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:01:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoveCardCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\MoveCardCommand.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\MoveCardCommand.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\MoveCardCommand.cs",
+              "RelativeToolTip": "Trollo.Entities\\MoveCardCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:01:24.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\LoginViewModel.cs",
+              "RelativeToolTip": "Trollo.Entities\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:01:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CardDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\CardDetail.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\CardDetail.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\CardDetail.cs",
+              "RelativeToolTip": "Trollo.Entities\\CardDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:00:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoardView.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardView.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\BoardView.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardView.cs",
+              "RelativeToolTip": "Trollo.Entities\\BoardView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:00:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BoardView.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\ViewModels\\BoardView.cs",
+              "RelativeDocumentMoniker": "TrelloClone\\ViewModels\\BoardView.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\ViewModels\\BoardView.cs",
+              "RelativeToolTip": "TrelloClone\\ViewModels\\BoardView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:00:06.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BoardList.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardList.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\BoardList.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\BoardList.cs",
+              "RelativeToolTip": "Trollo.Entities\\BoardList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:00:00.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddCard.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AddCard.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\AddCard.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\AddCard.cs",
+              "RelativeToolTip": "Trollo.Entities\\AddCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddCard.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\ViewModels\\AddCard.cs",
+              "RelativeDocumentMoniker": "TrelloClone\\ViewModels\\AddCard.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\ViewModels\\AddCard.cs",
+              "RelativeToolTip": "TrelloClone\\ViewModels\\AddCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:59:21.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Column.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Column.cs",
+              "RelativeDocumentMoniker": "TrelloClone\\Models\\Column.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Column.cs",
+              "RelativeToolTip": "TrelloClone\\Models\\Column.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:57:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "TrelloClone\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Card.cs",
+              "RelativeToolTip": "TrelloClone\\Models\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:57:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Abstractions\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Abstractions\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Abstractions\\BaseEntity.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Abstractions\\BaseEntity.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:56:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "TrelloClone\\Models\\Board.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\TrelloClone\\Models\\Board.cs",
+              "RelativeToolTip": "TrelloClone\\Models\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:56:08.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Column.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Column.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Column.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Column.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Column.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:56:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Card.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Card.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Card.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:55:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Board.cs",
+              "RelativeDocumentMoniker": "Trollo.Entities\\Board.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\source\\repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Board.cs*",
+              "RelativeToolTip": "Trollo.Entities\\Board.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:55:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TrelloClone",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj",
+              "RelativeDocumentMoniker": "TrelloClone\\TrelloClone.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\TrelloClone\\TrelloClone.csproj",
+              "RelativeToolTip": "TrelloClone\\TrelloClone.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T13:54:49.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

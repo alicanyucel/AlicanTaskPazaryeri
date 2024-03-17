@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trello.DataAccess\\Trello.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Trello.DataAccess.csproj",
       "projectName": "Trello.DataAccess",
-      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trello.DataAccess\\Trello.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\Trello.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Ali Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\TrelloCloneAlica\\src\\Trello.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
