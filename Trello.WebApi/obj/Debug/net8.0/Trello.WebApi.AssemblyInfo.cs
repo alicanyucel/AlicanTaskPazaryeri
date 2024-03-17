@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trello.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c74bf4ec10a9e0b912950aa3a445bc21143e2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69005fcb87b8ce382d5f99f8f2d0e6e59e0e004")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trello.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trello.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
