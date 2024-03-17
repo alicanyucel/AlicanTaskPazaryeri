@@ -16,8 +16,11 @@ namespace Trello.DataAccess.Context
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
-      
-        
+
+        public DbSet<Board> Boards { get; set; }
+        public DbSet<Card> Cards { get; set; }
+        public DbSet<Column> Columns { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Ignore<IdentityUserLogin<Guid>>();
