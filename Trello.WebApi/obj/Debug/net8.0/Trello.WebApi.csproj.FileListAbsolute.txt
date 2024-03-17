@@ -31,3 +31,14 @@ C:\Users\Ali Can\Source\Repos\TrelloCloneAlica\src\Trello.WebApi\obj\Debug\net8.
 C:\Users\Ali Can\Source\Repos\TrelloCloneAlica\src\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.pdb
 C:\Users\Ali Can\Source\Repos\TrelloCloneAlica\src\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\TrelloCloneAlica\src\Trello.WebApi\obj\Debug\net8.0\ref\Trello.WebApi.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.csproj.AssemblyReference.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.AssemblyInfoInputs.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.AssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.sourcelink.json
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\refint\Trello.WebApi.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.pdb

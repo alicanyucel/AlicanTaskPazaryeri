@@ -4,3 +4,10 @@ C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.AssemblyInfo.cs
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.sourcelink.json
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\bin\Debug\net8.0\Trollo.Entities.deps.json
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\bin\Debug\net8.0\Trollo.Entities.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\bin\Debug\net8.0\Trollo.Entities.pdb
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\refint\Trollo.Entities.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\Trollo.Entities.pdb
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trollo.Entities\obj\Debug\net8.0\ref\Trollo.Entities.dll
