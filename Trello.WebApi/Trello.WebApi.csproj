@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Trello.Business\Trello.Business.csproj" />
+    <ProjectReference Include="..\Trello.DataAccess\Trello.DataAccess.csproj" />
+    <ProjectReference Include="..\TrelloClone\TrelloClone.csproj" />
     <ProjectReference Include="..\Trollo.Entities\Trollo.Entities.csproj" />
   </ItemGroup>
 
