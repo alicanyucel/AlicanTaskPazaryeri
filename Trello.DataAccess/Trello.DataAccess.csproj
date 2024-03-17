@@ -28,8 +28,4 @@
     <ProjectReference Include="..\Trollo.Entities\Trollo.Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

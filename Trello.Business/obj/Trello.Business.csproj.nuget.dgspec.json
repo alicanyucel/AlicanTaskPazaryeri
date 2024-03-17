@@ -57,9 +57,9 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "ErrorOr": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[1.10.0, )"
+              "version": "[12.0.1, )"
             },
             "FluentValidation": {
               "target": "Package",
@@ -72,10 +72,6 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.2.0, )"
-            },
-            "Microsoft.AspNetCore.Http.Features": {
-              "target": "Package",
-              "version": "[5.0.17, )"
             }
           },
           "imports": [
