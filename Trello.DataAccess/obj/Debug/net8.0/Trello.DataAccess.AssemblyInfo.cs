@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trello.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ce0b6daf4707c8493751f70c245b22ebf74fe3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf59f12d116423a18273665f35e48508b4aabfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trello.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trello.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

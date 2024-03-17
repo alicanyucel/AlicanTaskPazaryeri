@@ -231,3 +231,7 @@ C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.W.A4C03FCF.Up2Date
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\Trello.WebApi.genruntimeconfig.cache
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\obj\Debug\net8.0\ref\Trello.WebApi.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\Trello.WebApi\bin\Debug\net8.0\System.CodeDom.dll
