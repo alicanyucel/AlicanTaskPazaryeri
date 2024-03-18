@@ -28,8 +28,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Board\" />
-    <Folder Include="Features\Card\" />
+    <Folder Include="Features\Card\CreateCard\" />
+    <Folder Include="Features\Card\GetCards\" />
+    <Folder Include="Features\Card\UpdateCard\" />
+    <Folder Include="Features\Card\RemoveCardById\" />
   </ItemGroup>
 
 </Project>
