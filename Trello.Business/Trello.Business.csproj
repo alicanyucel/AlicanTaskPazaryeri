@@ -27,4 +27,9 @@
     <ProjectReference Include="..\Trollo.Entities\Trollo.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Board\" />
+    <Folder Include="Features\Card\" />
+  </ItemGroup>
+
 </Project>
