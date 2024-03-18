@@ -10,6 +10,7 @@ namespace Trollo.Entities
 {
     public class Board:BaseEntity
     {
+        public string Name { get; set; }
         public string Title { get; set; }
         public List<Column> Columns { get; set; } = new List<Column>();
     }

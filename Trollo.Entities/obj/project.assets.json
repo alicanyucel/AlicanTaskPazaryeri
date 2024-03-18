@@ -21,6 +21,19 @@
           }
         }
       },
+      "ErrorOr/1.10.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ErrorOr.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MediatR/12.2.0": {
         "type": "package",
         "dependencies": {
@@ -2382,6 +2395,23 @@
         "tools/init.ps1",
         "tools/install.ps1",
         "tools/migrate.exe"
+      ]
+    },
+    "ErrorOr/1.10.0": {
+      "sha512": "prNLSGADVmlFJeTt+GyZ7fg3fPJz8KYDaTIO2PtWZJ3S2ZTOkF6xKIo3JT99b+w4pvIPdl9vgpQckhbN4MdKzQ==",
+      "type": "package",
+      "path": "erroror/1.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "erroror.1.10.0.nupkg.sha512",
+        "erroror.nuspec",
+        "icon-square.png",
+        "lib/net6.0/ErrorOr.dll",
+        "lib/net6.0/ErrorOr.xml",
+        "lib/netstandard2.0/ErrorOr.dll",
+        "lib/netstandard2.0/ErrorOr.xml"
       ]
     },
     "MediatR/12.2.0": {
@@ -7095,6 +7125,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ErrorOr >= 1.10.0",
       "MediatR >= 12.2.0",
       "Microsoft.AspNet.Identity.EntityFramework >= 2.2.4",
       "Microsoft.AspNetCore.Mvc.ViewFeatures >= 2.2.0",
@@ -7150,6 +7181,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "ErrorOr": {
+            "target": "Package",
+            "version": "[1.10.0, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[12.2.0, )"

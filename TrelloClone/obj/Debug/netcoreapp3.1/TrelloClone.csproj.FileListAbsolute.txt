@@ -356,3 +356,4 @@ C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\TrelloClone\obj\Debug\netcorea
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\TrelloClone\obj\Debug\netcoreapp3.1\TrelloClone.dll
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\TrelloClone\obj\Debug\netcoreapp3.1\TrelloClone.pdb
 C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\TrelloClone\obj\Debug\netcoreapp3.1\TrelloClone.genruntimeconfig.cache
+C:\Users\Ali Can\Source\Repos\AlicanTaskPazaryeri\TrelloClone\bin\Debug\netcoreapp3.1\ErrorOr.dll

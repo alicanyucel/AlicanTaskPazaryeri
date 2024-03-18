@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Trello.Business.Features.Board.RemoveBoardsById
+namespace Trollo.Entities.Repositories
 {
-    internal class RemoveBoardByIdCommandHandler
+    public interface IBoardRepository : IRepository<Board>
     {
+
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trollo.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6492df9e09036a5ad105a951a0bd89b40bba1a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe057a32dafef5c796294e96dc5165e395f75c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trollo.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trollo.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

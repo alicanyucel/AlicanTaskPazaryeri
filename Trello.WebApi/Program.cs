@@ -70,7 +70,6 @@ builder.Services.AddSwaggerGen(setup =>
                     { jwtSecuritySheme, Array.Empty<string>() }
                 });
 });
-
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())

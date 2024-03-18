@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6w7Ypz1l94Xq+rsmHXuRUu7/49KzNNdl8ChJ/yHsdhccJ1F6BbxqYo9phZpxf7q/dqDMH0dXnQfbghfN0z7ymw==",
+  "dgSpecHash": "XTmL0+NOTFnbDX1pCK31M6PZnlpDpcKOycCGguQg+SqtwmZ409bJQYWMgb51LbSLoEiSzsD+vaZlxaJFJYOP3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trello.WebApi\\Trello.WebApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

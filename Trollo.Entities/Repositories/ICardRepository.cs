@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Trello.Business.Features.Card.GetCards
+namespace Trollo.Entities.Repositories
 {
-    internal class GerCardQueryHandler
+    public interface ICartRepository : IRepository<Cart>,IUnitOfWork
     {
+
     }
 }

@@ -8,12 +8,12 @@ using Trollo.Entities.Abstractions;
 
 namespace Trollo.Entities
 {
-    public class Card:BaseEntity
+    public class Cart:BaseEntity
     {
+        public string Name { get; set; }
         [Required]
         public string Contents { get; set; }
         public string Notes { get; set; }
-        public int ColumnId { get; set; }
         public Column Column { get; set; }
     }
 }

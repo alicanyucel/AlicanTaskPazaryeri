@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Hm9+Gnct3W6xDNHIHQEAZPBH+ZRb1xaQhVJkwGwVSCTLPGq8Qp7L4OrZBmgi9pnu46GrZraz4HQJ/ZhHPdmwRQ==",
+  "dgSpecHash": "tAL4JASsRnURMDyafivr0dA5v9ggzH48Jhu6EB4SkKSsZkTVur7Rn9uvwsFWt0bolhde3Jzs5z5rKNgEKEW6gA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali Can\\Source\\Repos\\AlicanTaskPazaryeri\\Trollo.Entities\\Trollo.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Can\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\Ali Can\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Ali Can\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
